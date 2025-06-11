@@ -46,7 +46,7 @@ An AI-powered chatbot built using **Streamlit** and **SentenceTransformer** that
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-faq-chatbot.git
+git clone https://github.com/Sandeep-Rathor-D/ecommerce-faq-chatbot.git
 cd ecommerce-faq-chatbot
 pip install -r requirements.txt
 
