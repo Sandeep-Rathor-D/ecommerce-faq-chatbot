@@ -2,6 +2,8 @@
 
 # 🛍️ AskMe: E-commerce FAQ Chatbot
 
+🌐 [Live Demo](https://ecommerce-faq-chatbot-cyvf94gitwvjegeejghjys.streamlit.app/)
+
 An AI-powered chatbot built using **Streamlit** and **SentenceTransformer** that answers frequently asked questions (FAQs) about an e-commerce service.
 
 ---
