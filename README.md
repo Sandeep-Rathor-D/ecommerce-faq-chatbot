@@ -1,6 +1,5 @@
 ![AskMe Chatbot Banner](banner.png)
 
-
 # 🛍️ AskMe: E-commerce FAQ Chatbot
 
 An AI-powered chatbot built using **Streamlit** and **SentenceTransformer** that answers frequently asked questions (FAQs) about an e-commerce service.
@@ -72,5 +71,7 @@ ecommerce-faq-chatbot/
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
 
+
+```
